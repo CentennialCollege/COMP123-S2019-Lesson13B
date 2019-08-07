@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.757
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2019-Lesson13B-Part1", "COMP123-S2019-Lesson13B-Part1\COMP123-S2019-Lesson13B-Part1.csproj", "{03625077-321B-4233-8805-22BAE00C4063}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2019-Lesson13B-Part2", "COMP123-S2019-Lesson13B-Part2\COMP123-S2019-Lesson13B-Part2.csproj", "{6C9324D0-D3AF-448F-9106-3F15C722763A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2019-Lesson13B-Part3", "COMP123-S2019-Lesson13B-Part3\COMP123-S2019-Lesson13B-Part3.csproj", "{2A7A9398-BE7D-4F4F-801E-85B0D5146646}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{03625077-321B-4233-8805-22BAE00C4063}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03625077-321B-4233-8805-22BAE00C4063}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03625077-321B-4233-8805-22BAE00C4063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C9324D0-D3AF-448F-9106-3F15C722763A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C9324D0-D3AF-448F-9106-3F15C722763A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C9324D0-D3AF-448F-9106-3F15C722763A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C9324D0-D3AF-448F-9106-3F15C722763A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A7A9398-BE7D-4F4F-801E-85B0D5146646}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7A9398-BE7D-4F4F-801E-85B0D5146646}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7A9398-BE7D-4F4F-801E-85B0D5146646}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7A9398-BE7D-4F4F-801E-85B0D5146646}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
